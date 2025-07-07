@@ -1,2 +1,2 @@
-City:Coimbatore
-State:TamilNadu
+City:Bangalore
+
